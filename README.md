@@ -7,7 +7,6 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **GoGreen - a sustainability-focused platform**
 - 🌱 I’m currently learning **DSA with Python** and **Backend development with Node.js & Express**
 - 💼 I recently completed an internship at **OScode**, where I worked on real client projects and team collaboration.
 - 💬 Ask me about **React, Vite, Tailwind, Shadcn, Framer Motion, Node.js**
