@@ -2,7 +2,7 @@
 
 I'm **Nikhil**, a Full Stack Developer based in 🇮🇳 India.
 
-I have 1 year of hands-on experience building fast, secure, and visually polished web applications. You could also call me a **Design Engineer** — I love combining beautiful UI with robust backend logic to create seamless user experiences.
+I have 2 year of hands-on experience building fast, secure, and visually polished web applications. You could also call me a **Design Engineer** — I love combining beautiful UI with robust backend logic to create seamless user experiences.
 
 ---
 
